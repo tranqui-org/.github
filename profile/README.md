@@ -1,4 +1,4 @@
-Readme tranqui-org
+
 
 <div align="center">
     <a href="https://ideclare-landingpage.vercel.app/"><h1 align="center">Tranqui</h1></a>
